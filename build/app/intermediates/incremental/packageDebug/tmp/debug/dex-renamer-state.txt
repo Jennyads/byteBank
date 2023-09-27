@@ -1,0 +1,4 @@
+#Mon Sep 25 18:44:06 BRT 2023
+base.0=/home/jeniffer/Área de Trabalho/bytebank/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

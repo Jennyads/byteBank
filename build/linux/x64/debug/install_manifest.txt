@@ -1,0 +1,13 @@
+/home/jeniffer/Área de Trabalho/bytebank/build/linux/x64/debug/bundle/bytebank
+/home/jeniffer/Área de Trabalho/bytebank/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/jeniffer/Área de Trabalho/bytebank/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/jeniffer/Área de Trabalho/bytebank/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/jeniffer/Área de Trabalho/bytebank/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/jeniffer/Área de Trabalho/bytebank/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/jeniffer/Área de Trabalho/bytebank/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/jeniffer/Área de Trabalho/bytebank/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/jeniffer/Área de Trabalho/bytebank/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/jeniffer/Área de Trabalho/bytebank/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/jeniffer/Área de Trabalho/bytebank/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/jeniffer/Área de Trabalho/bytebank/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/jeniffer/Área de Trabalho/bytebank/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json

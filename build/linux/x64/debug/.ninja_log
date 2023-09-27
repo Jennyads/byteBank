@@ -1,0 +1,28 @@
+# ninja log v5
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/libflutter_linux_gtk.so	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_engine.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_value.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/fl_view.h	72883a4e48c0dc62
+0	17169	0	/home/jeniffer/Área de Trabalho/bytebank/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	72883a4e48c0dc62
+0	17169	0	flutter/_phony_	72883a4e48c0dc62
+17173	18400	1695669477040721002	CMakeFiles/bytebank.dir/flutter/generated_plugin_registrant.cc.o	c2a4e6ad42b6cf57
+17170	18686	1695669477324720577	CMakeFiles/bytebank.dir/main.cc.o	3ba6468de5908dfa
+17170	18730	1695669477368720511	CMakeFiles/bytebank.dir/my_application.cc.o	cb87bf40d3c561d
+18730	19123	1695669477764719919	intermediates_do_not_run/bytebank	de8be9865ecb0534
+19124	19254	0	CMakeFiles/install.util	55f3ff5f666d54eb
